@@ -30,6 +30,7 @@ Going thousands of dollars into debt to bring you weird electronic shit since 20
 - [Experimental Raspberry Pi Pico-based glitcher](https://github.com/wurthless-elektroniks/pigli360)
 - [RGH3 quick solder board for phats](https://github.com/wurthless-elektroniks/trifalcon)
 - [HDD security sector backup tool & dumps archive](https://github.com/wurthless-elektroniks/secsec360)
+- [Hacked CB_B 7378 for Samsung Elpis systems to work with EXT_CLK](https://github.com/wurthless-elektroniks/elpiss)
 
 ### Other
 - ~~[Sega Genesis/Megadrive TMSS disabler in an ATTinyX5](https://github.com/wurthless-elektroniks/sega-tmss-killer-attiny85)~~ (historical)
