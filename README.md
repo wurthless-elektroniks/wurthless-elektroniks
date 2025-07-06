@@ -27,7 +27,7 @@ Going thousands of dollars into debt to bring you weird electronic shit since 20
 - [Nintendo 64 RGB encoders for latter day N64s](https://github.com/wurthless-elektroniks/rugby64)
 
 ### Xbox 360
-- [Experimental Raspberry Pi Pico-based glitcher](https://github.com/wurthless-elektroniks/pigli360)
+- [Raspberry Pi Pico-based reset glitch experiments](https://github.com/wurthless-elektroniks/pigli360-workbench)
 - [RGH3 quick solder board for phats](https://github.com/wurthless-elektroniks/trifalcon)
 - [HDD security sector backup tool & dumps archive](https://github.com/wurthless-elektroniks/secsec360)
 - [Hacked CB_B 7378 for Samsung Elpis systems to work with EXT_CLK](https://github.com/wurthless-elektroniks/elpiss)
